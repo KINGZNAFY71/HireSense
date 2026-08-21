@@ -1,0 +1,13 @@
+{
+    "api_key": "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",
+    "ai_model": "claude-3-5-sonnet-20241022",
+    "smtp_host": "smtp.gmail.com",
+    "smtp_user": "hanafikadir71@gmail.com",
+    "smtp_pass": "bpgx cfat amwj kfme",
+    "smtp_port": "587",
+    "smtp_from": "hanafikadir71@gmail.com",
+    "mailgun_key": "www",
+    "mailgun_domain": "sandboxca2d0cb32f824edfac7bd9ca85ad7654.mailgun.org",
+    "mailgun_from": "postmaster@sandboxca2d0cb32f824edfac7bd9ca85ad7654.mailgun.org",
+    "mailgun_endpoint": "https:\/\/api.mailgun.net"
+}
